@@ -1,0 +1,14 @@
+awesome-agent-skills	Claude Skills 与 200+ agent skills 精选，兼容 Codex / Antigravity / Gemini CLI / Cursor	https://github.com/VoltAgent/awesome-agent-skills	浏览 README 与链接，按需 clone 或 npx skills add 对应仓库
+skills.sh	The Agent Skills Directory，官方目录站	https://skills.sh/	npx skills add <repo_url> --skill <name> --agent claude-code -y，详见站内说明
+skill0	民间搜索（质量未验证）	https://skill0.io	在站内搜索后按结果指引安装
+Claude 官方	Agent Skills 公开仓库	https://github.com/anthropics/skills	见仓库 README，按 skill 目录 clone 或通过支持该格式的客户端安装
+OpenAI 阵营	ChatGPT 代码解释器环境中的 skills（excel / pdf / word 等）	https://github.com/eliasjudin/oai-skills	见仓库 README
+SuperPower	Agentic skills 框架与 TDD 等方法论	https://github.com/obra/superpowers	见仓库文档与教程（如 aivi.fyi 介绍）
+ComposioHQ	精选 Claude Skills / 资源 / 工具，用于定制工作流	https://github.com/ComposioHQ/awesome-claude-skills	浏览列表后按条目 clone 或 npx skills add
+Antigravity awesome	600+ Agentic Skills 合集，含 Anthropic / Vercel 等官方	https://github.com/sickn33/antigravity-awesome-skills	见仓库 README，按子模块或链接安装
+BehiSecc	Claude Skills 精选列表	https://github.com/BehiSecc/awesome-claude-skills	浏览列表后按条目安装
+Travisvn	Claude Skills 与工具精选，偏 Claude Code	https://github.com/travisvn/awesome-claude-skills	同上
+MrGoonie (ClaudeKit)	多步骤工作流与技能集合	https://github.com/mrgoonie/claudekit-skills	clone 仓库，将 .claude/skills 下对应 skill 拷到本地 skills 目录
+K-Dense-AI (Scientific)	约 140 个科学领域技能（生物 / 化学 / 医学等）	https://github.com/K-Dense-AI/claude-scientific-skills	见仓库 README 与 k-dense.ai
+Bear2u	为 Claude Code 定制的自动化技能集	https://github.com/bear2u/my-skills	clone 后从 skills/ 拷贝所需 skill
+N8N Skills	使用 n8n-mcp 构建 n8n 工作流的 Claude Code 技能	https://github.com/czlonkowski/n8n-skills	见仓库 README
